@@ -1,0 +1,3 @@
+Greek
+Greek (el)
+phpbb-el
